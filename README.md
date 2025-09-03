@@ -38,9 +38,9 @@ Instructions:
 5. apt-get install python-is-python3 pip
 
 Docker image commands:
-1. docker build -t flask-app .
-2.docker run -p 8080:8080 flask-app
-3.docker build . -t officesd88/docker-demo
-4.docker push officesd88/docker-demo
+1. docker build -t docker-app .
+2.docker run -p 8080:8080 docker-app
+3.docker build . -t officesd88/docker-app
+4.docker push officesd88/docker-app
 
 
