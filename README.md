@@ -26,3 +26,15 @@ Open a browser and go to URL
 
 http://<IP>:5000                            => Welcome
 http://<IP>:5000/how%20are%20you            => I am good, how about you?
+
+
+
+
+Instructions:
+1. docker run -it ubuntu bash
+2. apt-get update
+3. apt-get install -y python-is-python3
+4. python
+5. apt-get install python-is-python3 pip
+6. 
+
